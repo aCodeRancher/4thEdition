@@ -9,7 +9,12 @@
 
 	<mvc:annotation-driven />
 
-	<context:component-scan base-package="sample.spring.chapter12.web" />
+	<!--<context:component-scan base-package="sample.spring.chapter12.web" /-->
+
+	<context:component-scan
+			base-package="sample.spring.chapter12.domain,
+			sample.spring.chapter12.dao, sample.spring.chapter12.service,
+            sample.spring.chapter12.config" />
 
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">

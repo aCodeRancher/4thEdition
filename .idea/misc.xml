@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/chapter 12/ch12-annotation-helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 12/ch12-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 12/ch12-helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-data-binding" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-jsr380-validation" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-jsr380-validation-javaconfig" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 13/ch13-session-attributes" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 14/ch14-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 14/ch14-webservice-uritemplates" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-async-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-async-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-commons-file-upload" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-converter-formatter-bankapp" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 15/ch15-servlet3-file-upload" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 16/ch16-bankapp-db-security" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 16/ch16-bankapp-simple-security" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 16/ch16-javaconfig-simple-security" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 19/ch19-reactor3-secured-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 19/ch19-reactor3-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter 19/ch19-rxjava2-webservice" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter 1/ch01-bankapp-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 2/ch02-bankapp-scopes/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 2/ch02-bankapp-interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-bankapp-modular/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-namespaces-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-bankapp-factorybean/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-bankapp-inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-util-schema-examples/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-simple-types-examples/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-bankapp-inheritance-examples/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-bankapp-constructor-args-by-name/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 3/ch03-bankapp-constructor-args-by-type/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 4/ch04-bankapp-autowiring/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 4/ch04-bankapp-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 4/ch04-bankapp-context-aware/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 4/ch04-bankapp-lookup-method/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 4/ch04-bankapp-replaced-method/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-bankapp-jsr250/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-bankapp-customization/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-localoverride-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-bankapp-beanpostprocessor/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-bankapp-beanfactorypostprocessor/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-propertyOverrideConfigurer-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-property-placeholder-element-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 5/ch05-propertySourcesPlaceholderConfigurer-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-spel-example/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-bean-profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-bankapp-jsr330/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-custom-qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-value-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-jsr380-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-lazy-dependencies/bin/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-lazy-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-jsr380-newfeatures/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-bankapp-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 6/ch06-validator-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 7/ch07-bankapp-more/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 7/ch07-bankapp-profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 7/ch07-functional-style/bin/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 7/ch07-functional-style/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 7/ch07-indexed-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 7/ch07-bankapp-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 7/ch07-bankapp-import-configs/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 8/ch08-bankapp-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 8/ch08-bankapp-tx-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 8/ch08-bankapp-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 8/ch08-javaconfig-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 9/ch09-javaconfig-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 9/ch09-springdata-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 9/ch09-springdata-mongo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 10/ch10-bankapp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 10/ch10-bankapp-javaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 11/ch11-aop-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 11/ch11-simple-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 11/ch11-aop-advices/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 11/ch11-aop-pointcuts/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 11/ch11-aop-xml-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 12/ch12-bankapp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 12/ch12-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 12/ch12-annotation-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 13/ch13-bankapp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 13/ch13-data-binding/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 13/ch13-jsr380-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 13/ch13-session-attributes/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 13/ch13-jsr380-validation-javaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 14/ch14-webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 14/ch14-webservice-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 14/ch14-webservice-uritemplates/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 14/ch14-webservice-client-uritemplates/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 15/ch15-bankapp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 15/ch15-async-bankapp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 15/ch15-async-webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 15/ch15-commons-file-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 15/ch15-servlet3-file-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 15/ch15-async-webservice-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 15/ch15-converter-formatter-bankapp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 16/ch16-bankapp-db-security/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 16/ch16-bankapp-simple-security/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 16/ch16-javaconfig-simple-security/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 17/ch17-lambdas/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 17/ch17-streams/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 17/ch17-functions/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 17/ch17-lazy-evaluation/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 17/ch17-method-references/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 18/ch18-stockquote/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 18/ch18-reactiveapp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 18/ch18-backpressure/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 19/ch19-rxjava2-webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 19/ch19-reactor3-webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter 19/ch19-reactor3-secured-webservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
