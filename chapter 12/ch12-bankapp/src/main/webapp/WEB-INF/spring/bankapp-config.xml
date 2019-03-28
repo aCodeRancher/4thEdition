@@ -8,13 +8,10 @@
         http://www.springframework.org/schema/context/spring-context.xsd ">
 
 	<mvc:annotation-driven />
-
-	<!--<context:component-scan base-package="sample.spring.chapter12.web" /-->
-
-	<context:component-scan
+    <context:component-scan
 			base-package="sample.spring.chapter12.domain,
 			sample.spring.chapter12.dao, sample.spring.chapter12.service,
-            sample.spring.chapter12.config" />
+            sample.spring.chapter12.config, sample.spring.chapter12.web" />
 
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
