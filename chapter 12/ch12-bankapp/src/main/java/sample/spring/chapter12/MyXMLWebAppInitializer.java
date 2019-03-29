@@ -1,4 +1,4 @@
-package sample.spring.chapter12.config;
+package sample.spring.chapter12;
 
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
@@ -17,18 +17,19 @@ public class MyXMLWebAppInitializer implements WebApplicationInitializer {
 
         theXmlWebApplicationContext.setConfigLocation("/WEB-INF/spring/bank-config.xml");
         inServletContext.addListener(new ContextLoaderListener(theXmlWebApplicationContext));
-        theXmlWebApplicationContext.setServletContext(inServletContext);
-        theXmlWebApplicationContext.refresh();
-        theXmlWebApplicationContext.start();
+        //theXmlWebApplicationContext.setServletContext(inServletContext);
 
+      //  theXmlWebApplicationContext.start();
 
-        final DispatcherServlet theDispatcherServlet =
+        DispatcherServlet theDispatcherServlet =
                 new DispatcherServlet(theXmlWebApplicationContext);
 
         ServletRegistration.Dynamic theServletRegistration =
                 inServletContext.addServlet("bankapp", theDispatcherServlet);
+
         theServletRegistration.setLoadOnStartup(1);
         theServletRegistration.addMapping("/");
+
 
     }
 }
