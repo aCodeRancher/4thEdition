@@ -1,4 +1,4 @@
-package sample.spring.chapter12.config;
+package sample.spring.chapter12;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
