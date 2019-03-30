@@ -9,7 +9,15 @@
       </configuration>
     </facet>
     <facet type="Spring" name="Spring">
-      <configuration />
+      <configuration>
+        <fileset id="fileset" name="Bankapp Config" removed="false">
+          <dependency>fileset2</dependency>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/bankapp-config.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="ApplicationContext" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/META-INF/spring/applicationContext.xml</file>
+        </fileset>
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
