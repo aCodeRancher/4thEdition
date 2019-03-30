@@ -21,7 +21,7 @@ public class MyXMLWebAppInitializer implements WebApplicationInitializer {
          appContext.refresh();
         //appContext.start();
         DispatcherServlet theDispatcherServlet = new DispatcherServlet(appContext);
-        theDispatcherServlet.setContextConfigLocation("/WEB-INF/spring/bankapp-config.xml");
+        theDispatcherServlet.setContextConfigLocation("/WEB-INF/spring/bankapp-servlet.xml");
         ServletRegistration.Dynamic theServletRegistration =
                container.addServlet("bankapp", theDispatcherServlet);
 
