@@ -1,9 +1,9 @@
 package sample.spring.chapter08.bankapp;
 
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.EnableAspectJAutoProxy;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
-@EnableAspectJAutoProxy(proxyTargetClass=true)
+@EnableTransactionManagement(proxyTargetClass = true )
 public class AppConfig {
 }
